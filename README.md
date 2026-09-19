@@ -59,7 +59,7 @@ establishment.
 Wireshark · TCP/HTTP Stream Analysis · CyberChef (Base64/UTF-16LE decoding) · Protocol Hierarchy & Conversation Statistics
 
 ## Full Report
-See [full report](./report/PCAP-Forensic-Report-404TDS-CobaltStrike.pdf) 
+See [full report](./report/PCAP_Forensic_Report_404TDS_CobaltStrike.pdf)
 for complete findings, all 9 evidence screenshots, IOC tables, and the 
 full investigation timeline.
 
